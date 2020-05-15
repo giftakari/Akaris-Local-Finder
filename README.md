@@ -4,4 +4,4 @@
 
 ## Technologies Used
 
-#### Node, Express, MongoDb, Angular 9
+**_Node, Express, MongoDb, Angular 9_**
